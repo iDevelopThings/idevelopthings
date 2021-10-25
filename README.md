@@ -4,11 +4,14 @@
 <h3 align="center">Self taught full-stack googler. Jokes aside, full-stack web dev. I stream on Twitch, build broken websites that will eventually work and think that I'm funny.</h3>
 
 
-[![wakatime](https://wakatime.com/badge/user/e3554835-2c7c-4e57-a5b0-6c34501aa484.svg)](https://wakatime.com/@e3554835-2c7c-4e57-a5b0-6c34501aa484)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idevelopthings&label=Profile%20views&color=0e75b6&style=flat" alt="idevelopthings" /> </p>
+<p align="center">
+  [![wakatime](https://wakatime.com/badge/user/e3554835-2c7c-4e57-a5b0-6c34501aa484.svg)](https://wakatime.com/@e3554835-2c7c-4e57-a5b0-6c34501aa484)
+  <img src="https://komarev.com/ghpvc/?username=idevelopthings&label=Profile%20views&color=0e75b6&style=flat" alt="idevelopthings" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idevelopthings" alt="idevelopthings" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idevelopthings" alt="idevelopthings" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/itsmrsammeh" target="blank"><img src="https://img.shields.io/twitter/follow/itsmrsammeh?logo=twitter&style=for-the-badge" alt="itsmrsammeh" /></a> </p>
 
