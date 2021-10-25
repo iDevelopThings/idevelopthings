@@ -11,8 +11,11 @@
   <a href="https://twitter.com/itsmrsammeh" target="blank"><img src="https://img.shields.io/twitter/follow/itsmrsammeh?logo=twitter&style=for-the-badge" alt="itsmrsammeh" /></a>  
 </p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idevelopthings&show_icons=true&locale=en&layout=compact&hide=c%23" alt="idevelopthings" />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,11 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/idevelopthings"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="idevelopthings" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idevelopthings&show_icons=true&locale=en&layout=compact&hide=c%23" alt="idevelopthings" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" /></p>
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=idevelopthings" alt="idevelopthings" />
