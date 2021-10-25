@@ -5,10 +5,10 @@
 
 
 
-<p align="center">
-  [![wakatime](https://wakatime.com/badge/user/e3554835-2c7c-4e57-a5b0-6c34501aa484.svg)](https://wakatime.com/@e3554835-2c7c-4e57-a5b0-6c34501aa484)
+<p align="center">  
+  <img src="https://wakatime.com/badge/user/e3554835-2c7c-4e57-a5b0-6c34501aa484.svg" alt="idevelopthings" />
   <img src="https://komarev.com/ghpvc/?username=idevelopthings&label=Profile%20views&color=0e75b6&style=flat" alt="idevelopthings" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idevelopthings" alt="idevelopthings" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=idevelopthings" alt="idevelopthings" />
 </p>
 
 
