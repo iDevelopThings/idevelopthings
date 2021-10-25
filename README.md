@@ -13,9 +13,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idevelopthings&show_icons=true&locale=en&layout=compact&hide=c%23" alt="idevelopthings" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
