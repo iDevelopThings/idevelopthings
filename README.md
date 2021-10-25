@@ -8,12 +8,11 @@
 <p align="center">  
   <img src="https://wakatime.com/badge/user/e3554835-2c7c-4e57-a5b0-6c34501aa484.svg" alt="idevelopthings" />
   <img src="https://komarev.com/ghpvc/?username=idevelopthings&label=Profile%20views&color=0e75b6&style=flat" alt="idevelopthings" />
-  <img src="https://github-profile-trophy.vercel.app/?username=idevelopthings" alt="idevelopthings" />
+  <a href="https://twitter.com/itsmrsammeh" target="blank"><img src="https://img.shields.io/twitter/follow/itsmrsammeh?logo=twitter&style=for-the-badge" alt="itsmrsammeh" /></a>  
 </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/itsmrsammeh" target="blank"><img src="https://img.shields.io/twitter/follow/itsmrsammeh?logo=twitter&style=for-the-badge" alt="itsmrsammeh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" /></p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=idevelopthings" alt="idevelopthings" />
+</p>
