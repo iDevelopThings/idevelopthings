@@ -16,11 +16,11 @@
 </p>
 <p align="left">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" />
-
 </p>
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" />
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
