@@ -11,11 +11,16 @@
   <a href="https://twitter.com/itsmrsammeh" target="blank"><img src="https://img.shields.io/twitter/follow/itsmrsammeh?logo=twitter&style=for-the-badge" alt="itsmrsammeh" /></a>  
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idevelopthings&show_icons=true&locale=en&layout=compact&hide=c%23" alt="idevelopthings" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idevelopthings&show_icons=true&locale=en&layout=compact&hide=c%23" alt="idevelopthings" />
+</p>
+<p align="left">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" />
-
+</p>
+<p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
