@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam or iDevelopthings</h1>
 <h3 align="center">Self taught full-stack googler. Jokes aside, full-stack web dev. I stream on Twitch, build broken websites that will eventually work and think that I'm funny.</h3>
 
-<h4>
+<h4 align="center">
 I work at <a href="https://wearekk.com" target="_blank">Killing Kittens</a>, have built some cool projects like <a href="https://github.com/envuso" target="_blank">Envuso</a> and <a href="https://chatreward.tv/" target="_blank">ChatReward</a>.
 </h4>
 
@@ -11,11 +11,9 @@ I work at <a href="https://wearekk.com" target="_blank">Killing Kittens</a>, hav
   <a href="https://twitter.com/itsmrsammeh" target="blank"><img src="https://img.shields.io/twitter/follow/itsmrsammeh?logo=twitter&style=for-the-badge" alt="itsmrsammeh" /></a>  
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=idevelopthings&show_icons=true&locale=en&layout=compact&hide=c%23" alt="idevelopthings" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" />
-<img src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" />
-</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=idevelopthings&show_icons=true&locale=en&layout=compact&hide=c%23" alt="idevelopthings" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=idevelopthings&" alt="idevelopthings" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=idevelopthings&show_icons=true&locale=en" alt="idevelopthings" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
